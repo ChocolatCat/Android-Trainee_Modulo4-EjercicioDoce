@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio IndividualDoce</string>
+    <string name="title">Food App</string>
+    <string name="background">Background</string>
+    <string name="mapbutton">Mostrar Mapa</string>
+    <string name="borgar">Burger</string>
+</resources>
